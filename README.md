@@ -1,2 +1,2 @@
 # EASY_MED_
-## WEBSITE which makes works easy .
+## A Website which makes works easy .
